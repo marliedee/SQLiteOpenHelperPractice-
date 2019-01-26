@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLiteHelper</string>
+    <string name="how_many_legs_does_a_cat_have">How many legs does a cat have?</string>
+    <string name="your_favorite_color_cat">Your favorite color cat?</string>
+    <string name="how_many_tails_does_a_cat_have">How many tails does a cat have?</string>
+    <string name="submit">Submit</string>
+</resources>
